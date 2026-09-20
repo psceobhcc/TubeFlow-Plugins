@@ -1,0 +1,10 @@
+{
+    "id":  "pinterest",
+    "name":  "Pinterest",
+    "version":  "1.0.0",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/pinterest-v1.0.0/pinterest-1.0.0.tubeflow",
+    "sha256":  "f1261bdf89654317a876c173b0faf258b47e94e4ebc6030643ceb7906d553001",
+    "minimumTubeFlowVersion":  "2.0.0",
+    "releaseNotes":  "",
+    "publishedUtc":  "2026-09-20T20:35:41.9942717+00:00"
+}
