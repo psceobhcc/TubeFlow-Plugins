@@ -1,0 +1,10 @@
+{
+    "id":  "kick",
+    "name":  "Kick",
+    "version":  "1.0.0",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/kick-v1.0.0/kick-1.0.0.tubeflow",
+    "sha256":  "ba93879b417619f5b343ecca5746beb9171c2e52c42aa33a059e65f798d01315",
+    "minimumTubeFlowVersion":  "2.0.0",
+    "releaseNotes":  "",
+    "publishedUtc":  "2026-09-20T20:35:18.5690342+00:00"
+}
