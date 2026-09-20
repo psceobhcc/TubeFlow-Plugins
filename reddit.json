@@ -1,0 +1,10 @@
+{
+    "id":  "reddit",
+    "name":  "Reddit",
+    "version":  "1.0.0",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/reddit-v1.0.0/reddit-1.0.0.tubeflow",
+    "sha256":  "fed4efd2de9e72e943ab018fbc9178a016e8701ef85179f496d3d32a0b987f05",
+    "minimumTubeFlowVersion":  "2.0.0",
+    "releaseNotes":  "",
+    "publishedUtc":  "2026-09-20T20:35:53.2819930+00:00"
+}
