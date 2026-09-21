@@ -1,10 +1,10 @@
 {
     "id":  "bilibili",
     "name":  "Bilibili",
-    "version":  "1.0.2",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/bilibili-v1.0.2/bilibili-1.0.2.tubeflow",
-    "sha256":  "33f2ba90bc13b35025428b4dcb628840da5ea4ee247d2dc8ec61223b99bf20e8",
+    "version":  "1.0.3",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/bilibili-v1.0.3/bilibili-1.0.3.tubeflow",
+    "sha256":  "ba54747e9da8067a950a77cf717a5bc94193f37afcda23142e10bcb8f9a9cefb",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-21T16:16:01.9221279+00:00"
+    "publishedUtc":  "2026-09-21T18:12:32.3314498+00:00"
 }
