@@ -1,10 +1,10 @@
 {
     "id":  "streamable",
     "name":  "Streamable",
-    "version":  "1.0.2",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/streamable-v1.0.2/streamable-1.0.2.tubeflow",
-    "sha256":  "ea281df3496b5979c9a284df4de197936cb6532bb7d44992b4cc03f5d180bbf2",
+    "version":  "1.0.3",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/streamable-v1.0.3/streamable-1.0.3.tubeflow",
+    "sha256":  "b7a68db52c46e4b50a70f2e62b61abbe271b0ead052c63a398821ea7d83bae18",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-21T16:18:01.5039059+00:00"
+    "publishedUtc":  "2026-09-21T18:13:52.3375359+00:00"
 }
