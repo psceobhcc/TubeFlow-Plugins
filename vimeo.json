@@ -1,10 +1,10 @@
 {
     "id":  "vimeo",
     "name":  "Vimeo",
-    "version":  "1.0.2",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/vimeo-v1.0.2/vimeo-1.0.2.tubeflow",
-    "sha256":  "32c337fda68a494c4ab233acff8b51c91d1f116a7ed47ab3eea1a64352c2e5fd",
+    "version":  "1.0.3",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/vimeo-v1.0.3/vimeo-1.0.3.tubeflow",
+    "sha256":  "22f5d7b0a94a2bfcef41682442fd53fb60b8fb0ce20c7dcaa5963fbe120b72be",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-21T16:18:33.3777797+00:00"
+    "publishedUtc":  "2026-09-21T18:14:13.9607239+00:00"
 }
