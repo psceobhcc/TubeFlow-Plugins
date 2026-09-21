@@ -1,10 +1,10 @@
 {
     "id":  "rumble",
     "name":  "Rumble",
-    "version":  "1.0.0",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/rumble-v1.0.0/rumble-1.0.0.tubeflow",
-    "sha256":  "f3ce13e476cbd571fc48b69a466edc9e25451d026328b555983d5de8b10d405f",
+    "version":  "1.0.2",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/rumble-v1.0.2/rumble-1.0.2.tubeflow",
+    "sha256":  "c7e4e9fba71ee134cea4b1e354d9a245fbc8cf1f8443059b9cd6a676054befe1",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-20T20:36:04.6233427+00:00"
+    "publishedUtc":  "2026-09-21T16:17:45.3711779+00:00"
 }
