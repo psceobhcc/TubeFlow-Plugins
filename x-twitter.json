@@ -1,10 +1,10 @@
 {
     "id":  "x-twitter",
     "name":  "X - Twitter",
-    "version":  "1.0.0",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/x-twitter-v1.0.0/x-twitter-1.0.0.tubeflow",
-    "sha256":  "d47253d4d175efa5e39df06a34d14f2dfbff69587ef05fffee777abfb0c4bc84",
+    "version":  "1.0.2",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/x-twitter-v1.0.2/x-twitter-1.0.2.tubeflow",
+    "sha256":  "db8b5d2e83f50fe89e4acec0fe983cbc6fd612fb3e6097e2d0b29c24c568419b",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-20T20:37:00.4638198+00:00"
+    "publishedUtc":  "2026-09-21T16:19:07.3370545+00:00"
 }
