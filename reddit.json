@@ -1,10 +1,10 @@
 {
     "id":  "reddit",
     "name":  "Reddit",
-    "version":  "1.0.2",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/reddit-v1.0.2/reddit-1.0.2.tubeflow",
-    "sha256":  "fdea12cbf10f9b25c6127d8c61998f683da6457eca565f941ae0f8fb352115a3",
+    "version":  "1.0.3",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/reddit-v1.0.3/reddit-1.0.3.tubeflow",
+    "sha256":  "07e480be4a10c54531cc2a2bf606614863f262299f112676e04c16f457b19337",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-21T16:17:29.5702728+00:00"
+    "publishedUtc":  "2026-09-21T18:13:27.3912196+00:00"
 }
