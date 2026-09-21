@@ -1,10 +1,10 @@
 {
     "id":  "pinterest",
     "name":  "Pinterest",
-    "version":  "1.0.2",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/pinterest-v1.0.2/pinterest-1.0.2.tubeflow",
-    "sha256":  "116953d801e197df2372bc8c171ca5459872b9fa49a6aea3642586e92c9f4e73",
+    "version":  "1.0.3",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/pinterest-v1.0.3/pinterest-1.0.3.tubeflow",
+    "sha256":  "43d51ed9ad0ad2cddbaac2682c2ad7d6401d4c87b60c45f9feb390b7b61d4eed",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-21T16:17:13.9054790+00:00"
+    "publishedUtc":  "2026-09-21T18:13:15.8829732+00:00"
 }
