@@ -1,10 +1,10 @@
 {
     "id":  "odysee",
     "name":  "Odysee",
-    "version":  "1.0.2",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/odysee-v1.0.2/odysee-1.0.2.tubeflow",
-    "sha256":  "1f60e5df492ed7424f70b67d5611482ba0300a71291368c1fe787a6098444daa",
+    "version":  "1.0.3",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/odysee-v1.0.3/odysee-1.0.3.tubeflow",
+    "sha256":  "d71c577d1b20bd4950af3189e09cf2bba3bc85d53f07f6749b910b248e41dd2e",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-21T16:16:58.5286414+00:00"
+    "publishedUtc":  "2026-09-21T18:13:04.6619846+00:00"
 }
