@@ -1,10 +1,10 @@
 {
     "id":  "instagram",
     "name":  "Instagram",
-    "version":  "1.0.0",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/instagram-v1.0.0/instagram-1.0.0.tubeflow",
-    "sha256":  "680cd45b41ffd5ff9124a7ced150d6fce75e4bb5c45565b7ea0000176776e524",
+    "version":  "1.0.2",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/instagram-v1.0.2/instagram-1.0.2.tubeflow",
+    "sha256":  "e2425329b27d6b6c905f75caaaa84f485f6bcd70df4843993ef73e19a62832f7",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-20T20:35:06.3100259+00:00"
+    "publishedUtc":  "2026-09-21T16:16:23.3940534+00:00"
 }
