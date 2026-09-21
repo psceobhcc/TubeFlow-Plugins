@@ -1,10 +1,10 @@
 {
     "id":  "twitch",
     "name":  "Twitch",
-    "version":  "1.0.0",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/twitch-v1.0.0/twitch-1.0.0.tubeflow",
-    "sha256":  "d1eacc70f6944c1e947b2f6a68fc426aee32c07bec6a59b591cf80527ccbef99",
+    "version":  "1.0.2",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/twitch-v1.0.2/twitch-1.0.2.tubeflow",
+    "sha256":  "8803e7a1b729012c2c4c4bd522b05af8cd6893bdde10ff87f9fde1aa4cd8e269",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-20T20:36:27.2805328+00:00"
+    "publishedUtc":  "2026-09-21T16:18:17.5284344+00:00"
 }
