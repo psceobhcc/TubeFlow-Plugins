@@ -1,10 +1,10 @@
 {
     "id":  "vk-video",
     "name":  "VK Video",
-    "version":  "1.0.2",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/vk-video-v1.0.2/vk-video-1.0.2.tubeflow",
-    "sha256":  "b475cad04ac4755bf629db95752ddb37d5c46f5e5e45dd446a587f69d47714fe",
+    "version":  "1.0.3",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/vk-video-v1.0.3/vk-video-1.0.3.tubeflow",
+    "sha256":  "dd55e1bea169332c9abc9b3c8437d4dcfc51d2e43f7a6650d52128ef82c4ed81",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-21T16:18:50.2613609+00:00"
+    "publishedUtc":  "2026-09-21T18:14:25.0108324+00:00"
 }
