@@ -1,0 +1,10 @@
+{
+    "id":  "youtube",
+    "name":  "YouTube",
+    "version":  "1.0.0",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/youtube-v1.0.0/youtube-1.0.0.tubeflow",
+    "sha256":  "1cc6d7015bb187acaa859137ccad8b575e7ed14401483ec5f54fcd839d7b95bc",
+    "minimumTubeFlowVersion":  "2.0.1",
+    "releaseNotes":  "",
+    "publishedUtc":  "2026-09-23T09:13:55.5796836+00:00"
+}
