@@ -1,0 +1,10 @@
+{
+    "id":  "facebook",
+    "name":  "Facebook",
+    "version":  "1.0.0",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/facebook-v1.0.0/facebook-1.0.0.tubeflow",
+    "sha256":  "c72d6f39ee9e31e8677388168b994330c2bb35d94b78a9d505b5f4a3734b8bd3",
+    "minimumTubeFlowVersion":  "2.0.1",
+    "releaseNotes":  "",
+    "publishedUtc":  "2026-09-23T09:14:07.3710813+00:00"
+}
