@@ -1,10 +1,67 @@
 {
-    "id":  "youtube",
-    "name":  "YouTube",
-    "version":  "1.1.0",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/youtube-v1.1.0/youtube-1.1.0.tubeflow",
-    "sha256":  "00c06a84fe71c88b0b3d4fc1fbb69dcdf56144e07fc9269f0e78288e13b6811a",
-    "minimumTubeFlowVersion":  "2.0.1",
-    "releaseNotes":  "",
-    "publishedUtc":  "2026-09-24T06:25:14.3055717+00:00"
+  "id": "youtube",
+  "name": "YouTube",
+  "version": "1.1.0",
+  "apiVersion": 1,
+  "assembly": "TubeFlow.OfficialCoreProviders.dll",
+  "entryType": "TubeFlow.OfficialProviders.YouTubeProviderPlugin",
+  "minimumTubeFlowVersion": "2.0.1",
+  "tier": "free",
+  "capabilities": [
+    "provider-access",
+    "single-download",
+    "basic-format-selection",
+    "browser-companion"
+  ],
+  "premiumCapabilities": [
+    "playlist-download",
+    "smart-browser-prefetch"
+  ],
+  "publisher": "TubeFlow",
+  "updateUrl": "https://raw.githubusercontent.com/psceobhcc/TubeFlow-Plugins/main/youtube.json",
+  "browser": {
+    "apiVersion": 1,
+    "priority": 100,
+    "hosts": [
+      "youtube.com",
+      "youtu.be"
+    ],
+    "mediaRules": [
+      {
+        "hosts": ["youtube.com"],
+        "pathEquals": ["watch"],
+        "queryRequired": ["v"]
+      },
+      {
+        "hosts": ["youtube.com"],
+        "pathPrefixes": ["shorts/"]
+      },
+      {
+        "hosts": ["youtu.be"],
+        "allowAnyPath": true
+      }
+    ],
+    "shortRules": [
+      {
+        "hosts": ["youtube.com"],
+        "pathPrefixes": ["shorts/"]
+      }
+    ],
+    "overlay": {
+      "mode": "fixed",
+      "anchor": "active-video",
+      "isolateClicks": true
+    },
+    "mediaUrl": {
+      "requiresResolved": false,
+      "permalinkSelectors": [
+        "a[href*='/watch?v=']",
+        "a[href*='/shorts/']"
+      ]
+    },
+    "analysis": {
+      "initialDelayMs": 0,
+      "retryDelaysMs": [250, 700]
+    }
+  }
 }
