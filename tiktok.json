@@ -1,10 +1,10 @@
 {
     "id":  "tiktok",
     "name":  "TikTok",
-    "version":  "1.1.0",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/tiktok-v1.1.0/tiktok-1.1.0.tubeflow",
-    "sha256":  "4b1ca7b25da491dbcfa11775f4fa4d275c19302f277ac0bb380018c0f7bebc52",
+    "version":  "2.1.0",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/tiktok-v2.1.0/tiktok-2.1.0.tubeflow",
+    "sha256":  "824b24c38f0683be9fa46f056b48cbd79471d8118c6a55ebf05f99fd5de26011",
     "minimumTubeFlowVersion":  "2.0.1",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-24T06:25:35.9540335+00:00"
+    "publishedUtc":  "2026-10-10T21:22:52.2871723+00:00"
 }
