@@ -3,8 +3,8 @@
   "name": "YouTube",
   "version": "2.1.0",
   "packageUrl": "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/youtube-2.1.0/youtube-2.1.0.tubeflow",
-  "sha256": "4590fd580c456c03473ef77ce8051ec928e2a5c4305f4554cd8bb44c0efb8c28",
+  "sha256": "62432c5345562cb965841cd0d4d437dfa63c04a712784fd2c9ae5bede508c9b5",
   "minimumTubeFlowVersion": "2.0.1",
   "releaseNotes": "YouTube plugin mew update 2.1.0.",
-  "publishedUtc": "2026-10-10T16:30:07+00:00"
+  "publishedUtc": "2026-10-10T21:32:07+00:00"
 }
