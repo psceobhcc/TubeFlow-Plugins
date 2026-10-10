@@ -1,10 +1,10 @@
 {
     "id":  "dailymotion",
     "name":  "Dailymotion",
-    "version":  "1.0.3",
-    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/dailymotion-v1.0.3/dailymotion-1.0.3.tubeflow",
+    "version":  "2.1.2",
+    "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/dailymotion-v2.1.2/dailymotion-2.1.2.tubeflow",
     "sha256":  "d801bcc38ab8e0857d7063350c09b8b4738804250f0a8201e23d9e4fde1a80ea",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
-    "publishedUtc":  "2026-09-21T18:12:19.2788914+00:00"
+    "publishedUtc":  "2026-10-10T18:12:19.2788914+00:00"
 }
