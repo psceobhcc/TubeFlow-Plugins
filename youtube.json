@@ -2,7 +2,7 @@
   "id": "youtube",
   "name": "YouTube",
   "version": "2.1.0",
-  "packageUrl": "https://raw.githubusercontent.com/psceobhcc/TubeFlow-Plugins/main/youtube-2.1.0.tubeflow",
+  "packageUrl": "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/youtube-2.1.0/youtube-2.1.0.tubeflow",
   "sha256": "4590fd580c456c03473ef77ce8051ec928e2a5c4305f4554cd8bb44c0efb8c28",
   "minimumTubeFlowVersion": "2.0.1",
   "releaseNotes": "YouTube plugin update 2.1.0.",
