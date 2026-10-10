@@ -3,7 +3,7 @@
     "name":  "Dailymotion",
     "version":  "2.1.2",
     "packageUrl":  "https://github.com/psceobhcc/TubeFlow-Plugins/releases/download/dailymotion-v2.1.2/dailymotion-2.1.2.tubeflow",
-    "sha256":  "d801bcc38ab8e0857d7063350c09b8b4738804250f0a8201e23d9e4fde1a80ea",
+    "sha256":  "sha256:12c9039dfbd63815311254b4355616f7a12d4fb6f3d87f75a9fbe15e95199d1f",
     "minimumTubeFlowVersion":  "2.0.0",
     "releaseNotes":  "",
     "publishedUtc":  "2026-10-10T18:12:19.2788914+00:00"
